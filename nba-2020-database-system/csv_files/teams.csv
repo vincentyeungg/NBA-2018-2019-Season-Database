@@ -1,31 +1,31 @@
-,Name,Abbreviated Name,Arena,Wins,Losses,W-L
-1,Atlanta Hawks,ATL,State Farm Arena,29,53,29-53
-2,Boston Celtics,BOS,TD Garden,49,33,49-33
-3,Brooklyn Nets,BRK,Barclays Center,42,40,42-40
-4,Chicago Bulls,CHI,United Center,22,60,22-60
-5,Charlotte Hornets,CHO,Spectrum Center,39,43,39-43
-6,Cleveland Cavaliers,CLE,Quicken Loans Arena,19,63,19-63
-7,Dallas Mavericks,DAL,American Airlines Center,33,49,33-49
-8,Denver Nuggets,DEN,Pepsi Center,54,28,54-28
-9,Detroit Pistons,DET,Little Caesars Arena,41,41,41-41
-10,Golden State Warriors,GSW,Oracle Arena,57,25,57-25
-11,Houston Rockets,HOU,Toyota Center,53,29,53-29
-12,Indiana Pacers,IND,Bankers Life Fieldhouse,48,34,48-34
-13,Los Angeles Clippers,LAC,STAPLES Center,48,34,48-34
-14,Los Angeles Lakers,LAL,STAPLES Center,37,45,37-45
-15,Memphis Grizzlies,MEM,FedEx Forum,33,49,33-49
-16,Miami Heat,MIA,AmericanAirlines Arena,39,43,39-43
-17,Milwaukee Bucks,MIL,Fiserv Forum,60,22,60-22
-18,Minnesota Timberwolves,MIN,Target Center,36,46,36-46
-19,New Orleans Pelicans,NOP,Smoothie King Center,33,49,33-49
-20,New York Knicks,NYK,Madison Square Garden (IV),17,65,17-65
-21,Oklahoma City Thunder,OKC,Chesapeake Energy Arena,49,33,49-33
-22,Orlando Magic,ORL,Amway Center,42,40,42-40
-23,Philadelphia 76ers,PHI,Wells Fargo Center,51,31,51-31
-24,Phoenix Suns,PHO,Talking Stick Resort Arena,19,63,19-63
-25,Portland Trail Blazers,POR,Moda Center,53,29,53-29
-26,Sacramento Kings,SAC,Golden 1 Center,39,43,39-43
-27,San Antonio Spurs,SAS,AT&T Center,48,34,48-34
-28,Toronto Raptors,TOR,Scotiabank Arena,58,24,58-24
-29,Utah Jazz,UTA,Vivint Smart Home Arena,50,32,50-32
-30,Washington Wizards,WAS,Capital One Arena,32,50,32-50
+Name,Abbreviated_Name,Arena,Wins,Losses,W_L
+Atlanta Hawks,ATL,State Farm Arena,29,53,29-53
+Boston Celtics,BOS,TD Garden,49,33,49-33
+Brooklyn Nets,BRK,Barclays Center,42,40,42-40
+Chicago Bulls,CHI,United Center,22,60,22-60
+Charlotte Hornets,CHO,Spectrum Center,39,43,39-43
+Cleveland Cavaliers,CLE,Quicken Loans Arena,19,63,19-63
+Dallas Mavericks,DAL,American Airlines Center,33,49,33-49
+Denver Nuggets,DEN,Pepsi Center,54,28,54-28
+Detroit Pistons,DET,Little Caesars Arena,41,41,41-41
+Golden State Warriors,GSW,Oracle Arena,57,25,57-25
+Houston Rockets,HOU,Toyota Center,53,29,53-29
+Indiana Pacers,IND,Bankers Life Fieldhouse,48,34,48-34
+Los Angeles Clippers,LAC,STAPLES Center,48,34,48-34
+Los Angeles Lakers,LAL,STAPLES Center,37,45,37-45
+Memphis Grizzlies,MEM,FedEx Forum,33,49,33-49
+Miami Heat,MIA,AmericanAirlines Arena,39,43,39-43
+Milwaukee Bucks,MIL,Fiserv Forum,60,22,60-22
+Minnesota Timberwolves,MIN,Target Center,36,46,36-46
+New Orleans Pelicans,NOP,Smoothie King Center,33,49,33-49
+New York Knicks,NYK,Madison Square Garden (IV),17,65,17-65
+Oklahoma City Thunder,OKC,Chesapeake Energy Arena,49,33,49-33
+Orlando Magic,ORL,Amway Center,42,40,42-40
+Philadelphia 76ers,PHI,Wells Fargo Center,51,31,51-31
+Phoenix Suns,PHO,Talking Stick Resort Arena,19,63,19-63
+Portland Trail Blazers,POR,Moda Center,53,29,53-29
+Sacramento Kings,SAC,Golden 1 Center,39,43,39-43
+San Antonio Spurs,SAS,AT&T Center,48,34,48-34
+Toronto Raptors,TOR,Scotiabank Arena,58,24,58-24
+Utah Jazz,UTA,Vivint Smart Home Arena,50,32,50-32
+Washington Wizards,WAS,Capital One Arena,32,50,32-50

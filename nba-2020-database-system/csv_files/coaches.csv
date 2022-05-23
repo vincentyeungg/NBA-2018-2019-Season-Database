@@ -1,31 +1,31 @@
-,Name,Date of Birth,Team
-2,Lloyd Pierce,1976-05-11,Atlanta Hawks
-3,Brad Stevens,1976-10-22,Boston Celtics
-4,Kenny Atkinson,1967-06-02,Brooklyn Nets
-5,Fred Hoiberg,1972-10-15,Chicago Bulls
-6,James Borrego,1977-11-12,Charlotte Hornets
-7,Tyronn Lue,1977-05-03,Cleveland Cavaliers
-8,Rick Carlisle,1959-10-27,Dallas Mavericks
-9,Michael Malone,1971-09-15,Denver Nuggets
-10,Dwane Casey,1957-04-17,Detroit Pistons
-11,Steve Kerr,1965-09-27,Golden State Warriors
-12,Mike D'Antoni,1951-05-08,Houston Rockets
-13,Nate McMillan,1964-08-03,Indiana Pacers
-14,Doc Rivers,1961-10-13,Los Angeles Clippers
-15,Luke Walton,1980-03-28,Los Angeles Lakers
-16,J.B. Bickerstaff,1979-03-10,Memphis Grizzlies
-17,Erik Spoelstra,1970-11-01,Miami Heat
-18,Mike Budenholzer,1969-08-06,Milwaukee Bucks
-19,Tom Thibodeau,1958-01-17,Minnesota Timberwolves
-20,Alvin Gentry,1954-11-05,New Orleans Pelicans
-21,David Fizdale,1974-06-16,New York Knicks
-22,Billy Donovan,1965-05-30,Oklahoma City Thunder
-23,Steve Clifford,1961-09-17,Orlando Magic
-24,Brett Brown,1961-02-16,Philadelphia 76ers
-25,Igor Kokoskov,1971-12-17,Phoenix Suns
-26,Terry Stotts,1957-11-25,Portland Trail Blazers
-27,Dave Joerger,1974-02-21,Sacramento Kings
-28,Gregg Popovich,1949-01-28,San Antonio Spurs
-29,Nick Nurse,1967-07-24,Toronto Raptors
-30,Quin Snyder,1966-10-30,Utah Jazz
-31,Scott Brooks,1965-07-31,Washington Wizards
+Name,Date_of_Birth,Team
+Lloyd Pierce,1976-05-11,Atlanta Hawks
+Brad Stevens,1976-10-22,Boston Celtics
+Kenny Atkinson,1967-06-02,Brooklyn Nets
+Fred Hoiberg,1972-10-15,Chicago Bulls
+James Borrego,1977-11-12,Charlotte Hornets
+Tyronn Lue,1977-05-03,Cleveland Cavaliers
+Rick Carlisle,1959-10-27,Dallas Mavericks
+Michael Malone,1971-09-15,Denver Nuggets
+Dwane Casey,1957-04-17,Detroit Pistons
+Steve Kerr,1965-09-27,Golden State Warriors
+Mike D'Antoni,1951-05-08,Houston Rockets
+Nate McMillan,1964-08-03,Indiana Pacers
+Doc Rivers,1961-10-13,Los Angeles Clippers
+Luke Walton,1980-03-28,Los Angeles Lakers
+J.B. Bickerstaff,1979-03-10,Memphis Grizzlies
+Erik Spoelstra,1970-11-01,Miami Heat
+Mike Budenholzer,1969-08-06,Milwaukee Bucks
+Tom Thibodeau,1958-01-17,Minnesota Timberwolves
+Alvin Gentry,1954-11-05,New Orleans Pelicans
+David Fizdale,1974-06-16,New York Knicks
+Billy Donovan,1965-05-30,Oklahoma City Thunder
+Steve Clifford,1961-09-17,Orlando Magic
+Brett Brown,1961-02-16,Philadelphia 76ers
+Igor Kokoskov,1971-12-17,Phoenix Suns
+Terry Stotts,1957-11-25,Portland Trail Blazers
+Dave Joerger,1974-02-21,Sacramento Kings
+Gregg Popovich,1949-01-28,San Antonio Spurs
+Nick Nurse,1967-07-24,Toronto Raptors
+Quin Snyder,1966-10-30,Utah Jazz
+Scott Brooks,1965-07-31,Washington Wizards
