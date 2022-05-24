@@ -78,6 +78,7 @@ The current version of the application:
 - collects data enough to construct our database outlined in the ER diagram which is quite a simple database
 - some parts of the script takes a long time to execute when scraping the data and constructing data frames with the data
 - can only collect data for a particular season although collecting for a range of seasons is a very minor tweak if any one chooses to follow this approach
+- add columns specific for primary/foreign key ids for a more robust database system
 - currently have to create your own database and configure the .env variables to work. In the future, I will look to move this to a cloud database or a database run in a docker container with more strict permissions on what operations you can perform with the database.
 - perhaps use data from this simplified database to plot the results of our queries to get a visual understanding of what the queries return.
 
